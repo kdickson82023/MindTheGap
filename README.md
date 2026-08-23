@@ -20,7 +20,7 @@ Empirical Bootstrapping: Utilizing a 10,000-iteration Monte Carlo simulation to 
 Emissions Error Propagation: Applying published variance in California dairy enteric and manure emissions to the bootstrapped herd data to generate a probabilistic distribution of unaccounted MTCO2e.
 Political Economy & Shadow Pricing: Quantifying the unpriced financial liability of this data gap by applying multiple carbon pricing scenarios, including the California Cap-and-Trade market proxy, the Federal Social Cost of Carbon (SCC), and the Equity-Weighted SCC.
 
-**Tech Stack**
+**Tech Stack**  
 *Data Wrangling*: pandas, numpy.   
 *Statistical Modeling*: scipy.stats (Lin's Concordance Correlation Coefficient, Monte Carlo simulations).  
 *Geospatial Analysis*: geopandas.  
