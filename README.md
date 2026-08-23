@@ -22,9 +22,9 @@ Political Economy & Shadow Pricing: Quantifying the unpriced financial liability
 
 **Tech Stack**
 *Data Wrangling*: pandas, numpy.   
-*Statistical Modeling*: scipy.stats (Lin's Concordance Correlation Coefficient, Monte Carlo simulations). 
-Geospatial Analysis: geopandas. 
-Visualization: matplotlib. 
+*Statistical Modeling*: scipy.stats (Lin's Concordance Correlation Coefficient, Monte Carlo simulations).  
+*Geospatial Analysis*: geopandas. 
+*Visualization*: matplotlib. 
 
 **Author & Conflict of Interest Statement**
 Katharine Dickson, Ph.D.  
