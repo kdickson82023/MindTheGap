@@ -21,10 +21,10 @@ Emissions Error Propagation: Applying published variance in California dairy ent
 Political Economy & Shadow Pricing: Quantifying the unpriced financial liability of this data gap by applying multiple carbon pricing scenarios, including the California Cap-and-Trade market proxy, the Federal Social Cost of Carbon (SCC), and the Equity-Weighted SCC.
 
 **Tech Stack**
-Data Wrangling: pandas, numpy
-Statistical Modeling: scipy.stats (Lin's Concordance Correlation Coefficient, Monte Carlo simulations)
-Geospatial Analysis: geopandas
-Visualization: matplotlib
+*Data Wrangling*: pandas, numpy.   
+*Statistical Modeling*: scipy.stats (Lin's Concordance Correlation Coefficient, Monte Carlo simulations). 
+Geospatial Analysis: geopandas. 
+Visualization: matplotlib. 
 
 **Author & Conflict of Interest Statement**
 Katharine Dickson, Ph.D.  
