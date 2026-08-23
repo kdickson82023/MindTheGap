@@ -9,7 +9,7 @@ By moving beyond simple arithmetic point-estimates, this project utilizes Monte 
 
 **Repository Structure**   
 data/: Contains the baseline CADD and CDFA facility counts (2012-2022).
-notebooks/: Contains the primary Jupyter Notebook (dairy_uncertainty_audit.ipynb) detailing the data ingestion, statistical modeling, and economic analysis.
+notebooks/: Contains the primary Jupyter Notebook (MindTheGap.ipynb) detailing the data ingestion, statistical modeling, and economic analysis.
 figures/: Generated figures.
 
 **Methodology**  
