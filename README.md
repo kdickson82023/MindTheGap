@@ -5,7 +5,7 @@ This repository contains a reproducible, open-source Python pipeline designed to
 
 By moving beyond simple arithmetic point-estimates, this project utilizes Monte Carlo bootstrapping and emissions error propagation to quantify the true atmospheric and economic liability of unaccounted dairy facilities in California.
 
-This work builds directly on an original concordance analysis by Dr. Daniel Chandler (Climate Action California), submitted as an appendix to CAC's response to CARB's 2026 Information Solicitation on SB 1383 dairy and livestock provisions.
+This work builds directly on an original concordance analysis by Dr. Daniel Chandler ([Climate Action California](https://climateactionca.org/)), submitted as an appendix to [CAC's response](https://ww2.arb.ca.gov/form/public-comments/submissions/60256) to CARB's 2026 [Information Solicitation to Inform Implementation of the Dairy and Livestock Provisions of Senate Bill 1383](https://ww2.arb.ca.gov/public-comments/information-solicitation-inform-dairy-and-livestock-sb1383).
 
 **Repository Structure** 
 
@@ -23,7 +23,7 @@ This analysis proceeds in four steps:
 
 - *Directional Filtering* — isolating county-years where CDFA facility counts exceed CADD counts, which identifies genuine regulatory blind spots rather than simple overcounts.
 - *Empirical Bootstrapping* — a 10,000-iteration Monte Carlo simulation sampling missing herd sizes directly from known regional distributions, replacing a deterministic point estimate with a full probability distribution.
-- *Emissions Error Propagation* — applying published variance in California dairy enteric emissions (Marklein et al., 2021) to the bootstrapped herd data to generate a probabilistic distribution of unaccounted MTCO2e.
+- *Emissions Error Propagation* — applying published variance in California dairy enteric emissions (Marklein et al. 2021, *Earth System Science Data* 13: 1151-1166, "[Facility-scale inventory of dairy methane emissions in California: implications for mitigation](https://doi.org/10.5194/essd-13-1151-2021)") to the bootstrapped herd data to generate a probabilistic distribution of unaccounted MTCO2e.
 - *Economic Translation* — quantifying the unpriced financial exposure of this uncertainty under three carbon pricing scenarios: California's Cap-and-Invest market price, the federal Social Cost of Carbon, and an equity-weighted SCC.
 
 **Setup**
