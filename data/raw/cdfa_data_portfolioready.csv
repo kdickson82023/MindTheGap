@@ -1,0 +1,639 @@
+﻿County,Region,Year,MktMilkDairiesCow,MktMilkDairiesGoat,MktMilkDairiesSheep,MktMilkDairiesWaterBuffalo,MfgMilkDairiesCow,MfgMilkDairiesGoat,MfgMilkDairiesSheep,MfgMilkDairiesWaterBuffalo
+Alameda,Oakland,2012,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2012,2,0,NA,NA,1,0,NA,NA
+Calaveras,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2012,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2012,5,0,NA,NA,3,0,NA,NA
+El Dorado,Stockton,2012,0,0,NA,NA,0,1,NA,NA
+Fresno,Fresno,2012,86,3,NA,NA,0,0,NA,NA
+Glenn,Stockton,2012,29,2,NA,NA,6,0,NA,NA
+Humboldt,Oakland,2012,51,0,NA,NA,13,5,NA,NA
+Imperial,Ontario,2012,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2012,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2012,54,0,NA,NA,0,1,NA,NA
+Kings,Fresno,2012,124,8,NA,NA,0,0,NA,NA
+Lake,Oakland,2012,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2012,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2012,45,2,NA,NA,1,0,NA,NA
+Marin,Oakland,2012,25,2,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2012,2,0,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2012,235,13,NA,NA,8,0,NA,NA
+Modoc,Stockton,2012,0,0,NA,NA,0,1,NA,NA
+Mono,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2012,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2012,0,0,NA,NA,0,1,NA,NA
+Nevada,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2012,0,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2012,1,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2012,36,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2012,34,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2012,2,1,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2012,75,1,NA,NA,0,0,NA,NA
+San Diego,Ontario,2012,4,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2012,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2012,119,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2012,1,0,NA,NA,0,2,NA,NA
+San Mateo,Oakland,2012,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2012,1,0,NA,NA,0,0,NA,NA
+Santa Clara,Oakland,2012,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2012,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Sierra,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2012,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2012,1,0,NA,NA,0,0,NA,NA
+Sonoma,Oakland,2012,60,4,NA,NA,1,2,NA,NA
+Stanislaus,Stockton,2012,216,7,NA,NA,0,2,NA,NA
+Sutter,Stockton,2012,1,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2012,9,1,NA,NA,1,0,NA,NA
+Trinity,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2012,296,1,NA,NA,0,0,NA,NA
+Tuolumne,Stockton,2012,0,0,NA,NA,0,0,NA,NA
+Ventura,Ontario,2012,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2012,2,0,NA,NA,0,0,NA,NA
+Yuba,Stockton,2012,3,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2013,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2013,2,0,NA,NA,1,0,NA,NA
+Calaveras,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2013,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2013,5,0,NA,NA,3,0,NA,NA
+El Dorado,Stockton,2013,0,0,NA,NA,0,1,NA,NA
+Fresno,Fresno,2013,81,3,NA,NA,0,0,NA,NA
+Glenn,Stockton,2013,24,2,NA,NA,6,0,NA,NA
+Humboldt,Oakland,2013,49,0,NA,NA,13,5,NA,NA
+Imperial,Ontario,2013,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2013,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2013,54,0,NA,NA,0,1,NA,NA
+Kings,Fresno,2013,118,8,NA,NA,0,0,NA,NA
+Lake,Oakland,2013,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2013,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2013,43,2,NA,NA,1,0,NA,NA
+Marin,Oakland,2013,25,2,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2013,2,0,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2013,225,13,NA,NA,14,0,NA,NA
+Modoc,Stockton,2013,0,0,NA,NA,0,1,NA,NA
+Mono,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2013,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2013,0,0,NA,NA,0,0,NA,NA
+Nevada,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2013,1,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2013,32,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2013,32,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2013,2,1,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2013,73,1,NA,NA,0,0,NA,NA
+San Diego,Ontario,2013,3,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2013,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2013,117,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2013,1,0,NA,NA,0,2,NA,NA
+San Mateo,Oakland,2013,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2013,1,0,NA,NA,0,0,NA,NA
+Santa Clara,Oakland,2013,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2013,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Sierra,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2013,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2013,2,0,NA,NA,0,0,NA,NA
+Sonoma,Oakland,2013,65,4,NA,NA,1,2,NA,NA
+Stanislaus,Stockton,2013,207,8,NA,NA,4,1,NA,NA
+Sutter,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2013,10,1,NA,NA,1,0,NA,NA
+Trinity,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2013,282,0,NA,NA,1,0,NA,NA
+Tuolumne,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Ventura,Ontario,2013,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2013,0,0,NA,NA,0,0,NA,NA
+Yuba,Stockton,2013,4,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2014,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2014,2,0,NA,NA,0,0,NA,NA
+Calaveras,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2014,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2014,5,0,NA,NA,3,0,NA,NA
+El Dorado,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Fresno,Fresno,2014,86,3,NA,NA,0,0,NA,NA
+Glenn,Stockton,2014,25,1,NA,NA,7,1,NA,NA
+Humboldt,Oakland,2014,51,0,NA,NA,13,5,NA,NA
+Imperial,Ontario,2014,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2014,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2014,54,0,NA,NA,0,1,NA,NA
+Kings,Fresno,2014,124,8,NA,NA,0,0,NA,NA
+Lake,Oakland,2014,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2014,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2014,45,2,NA,NA,1,0,NA,NA
+Marin,Oakland,2014,25,2,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2014,2,0,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2014,224,12,NA,NA,6,0,NA,NA
+Modoc,Stockton,2014,0,0,NA,NA,0,1,NA,NA
+Mono,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2014,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2014,0,0,NA,NA,0,1,NA,NA
+Nevada,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2014,0,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2014,1,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2014,36,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2014,29,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2014,2,1,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2014,75,1,NA,NA,0,0,NA,NA
+San Diego,Ontario,2014,4,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2014,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2014,112,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2014,1,0,NA,NA,0,2,NA,NA
+San Mateo,Oakland,2014,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2014,1,0,NA,NA,0,0,NA,NA
+Santa Clara,Oakland,2014,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2014,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Sierra,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2014,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2014,2,0,NA,NA,0,0,NA,NA
+Sonoma,Oakland,2014,60,4,NA,NA,1,2,NA,NA
+Stanislaus,Stockton,2014,206,10,NA,NA,1,1,NA,NA
+Sutter,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2014,10,1,NA,NA,1,0,NA,NA
+Trinity,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2014,296,1,NA,NA,0,0,NA,NA
+Tuolumne,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Ventura,Ontario,2014,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2014,0,0,NA,NA,0,0,NA,NA
+Yuba,Stockton,2014,4,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2015,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2015,2,0,NA,NA,0,0,NA,NA
+Calaveras,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2015,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2015,5,0,NA,NA,2,0,NA,NA
+El Dorado,Stockton,2015,0,0,NA,NA,0,1,NA,NA
+Fresno,Fresno,2015,76,2,NA,NA,0,0,NA,NA
+Glenn,Stockton,2015,23,5,NA,NA,4,0,NA,NA
+Humboldt,Oakland,2015,51,0,NA,NA,9,3,NA,NA
+Imperial,Ontario,2015,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2015,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2015,48,0,NA,NA,0,0,NA,NA
+Kings,Fresno,2015,113,9,NA,NA,0,0,NA,NA
+Lake,Oakland,2015,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2015,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2015,41,1,NA,NA,0,0,NA,NA
+Marin,Oakland,2015,25,1,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2015,2,1,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2015,221,13,NA,NA,7,0,NA,NA
+Modoc,Stockton,2015,0,0,NA,NA,1,0,NA,NA
+Mono,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2015,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2015,0,0,NA,NA,0,0,NA,NA
+Nevada,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2015,0,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2015,28,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2015,33,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2015,1,1,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2015,63,1,NA,NA,0,0,NA,NA
+San Diego,Ontario,2015,3,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2015,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2015,110,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2015,1,0,NA,NA,0,2,NA,NA
+San Mateo,Oakland,2015,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2015,1,0,NA,NA,0,0,NA,NA
+Santa Clara,Oakland,2015,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2015,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Sierra,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2015,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2015,2,1,NA,NA,0,0,NA,NA
+Sonoma,Oakland,2015,61,4,NA,NA,2,2,NA,NA
+Stanislaus,Stockton,2015,189,9,NA,NA,7,1,NA,NA
+Sutter,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2015,10,0,NA,NA,1,1,NA,NA
+Trinity,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2015,281,0,NA,NA,1,0,NA,NA
+Tuolumne,Stockton,2015,0,0,NA,NA,0,0,NA,NA
+Ventura,Ontario,2015,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2015,3,0,NA,NA,0,0,NA,NA
+Yuba,Stockton,2015,4,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2016,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2016,3,0,NA,NA,0,0,NA,NA
+Calaveras,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2016,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2016,5,0,NA,NA,2,0,NA,NA
+El Dorado,Stockton,2016,0,0,NA,NA,0,1,NA,NA
+Fresno,Fresno,2016,74,2,NA,NA,0,0,NA,NA
+Glenn,Stockton,2016,24,1,NA,NA,5,0,NA,NA
+Humboldt,Oakland,2016,51,0,NA,NA,9,3,NA,NA
+Imperial,Ontario,2016,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2016,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2016,48,0,NA,NA,0,0,NA,NA
+Kings,Fresno,2016,110,9,NA,NA,0,0,NA,NA
+Lake,Oakland,2016,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2016,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2016,41,2,NA,NA,1,0,NA,NA
+Marin,Oakland,2016,25,1,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2016,2,1,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2016,208,12,NA,NA,11,0,NA,NA
+Modoc,Stockton,2016,0,0,NA,NA,1,0,NA,NA
+Mono,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2016,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2016,0,0,NA,NA,0,0,NA,NA
+Nevada,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2016,0,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2016,2,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2016,27,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2016,29,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2016,1,2,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2016,59,1,NA,NA,0,0,NA,NA
+San Diego,Ontario,2016,3,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2016,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2016,105,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2016,1,0,NA,NA,0,3,NA,NA
+San Mateo,Oakland,2016,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2016,1,0,NA,NA,0,0,NA,NA
+Santa Clara,Oakland,2016,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2016,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Sierra,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2016,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2016,1,1,NA,NA,1,0,NA,NA
+Sonoma,Oakland,2016,61,4,NA,NA,2,2,NA,NA
+Stanislaus,Stockton,2016,184,9,NA,NA,7,1,NA,NA
+Sutter,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2016,7,0,NA,NA,1,1,NA,NA
+Trinity,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2016,268,1,NA,NA,1,0,NA,NA
+Tuolumne,Stockton,2016,0,0,NA,NA,0,0,NA,NA
+Ventura,Ontario,2016,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2016,2,1,NA,NA,0,0,NA,NA
+Yuba,Stockton,2016,4,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2017,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2017,2,0,NA,NA,0,0,NA,NA
+Calaveras,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2017,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2017,5,1,NA,NA,2,0,NA,NA
+El Dorado,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Fresno,Fresno,2017,70,1,NA,NA,0,1,NA,NA
+Glenn,Stockton,2017,20,1,NA,NA,4,1,NA,NA
+Humboldt,Oakland,2017,49,0,NA,NA,8,3,NA,NA
+Imperial,Ontario,2017,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2017,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2017,48,0,NA,NA,0,0,NA,NA
+Kings,Fresno,2017,106,9,NA,NA,0,0,NA,NA
+Lake,Oakland,2017,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2017,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2017,37,1,NA,NA,0,0,NA,NA
+Marin,Oakland,2017,25,1,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2017,2,1,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2017,190,10,NA,NA,18,0,NA,NA
+Modoc,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Mono,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2017,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2017,0,0,NA,NA,0,0,NA,NA
+Nevada,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2017,0,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2017,2,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2017,27,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2017,28,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2017,1,2,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2017,56,1,NA,NA,0,0,NA,NA
+San Diego,Ontario,2017,3,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2017,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2017,100,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2017,0,0,NA,NA,0,2,NA,NA
+San Mateo,Oakland,2017,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2017,1,0,NA,NA,0,0,NA,NA
+Santa Clara,Oakland,2017,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2017,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2017,0,1,NA,NA,0,0,NA,NA
+Sierra,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2017,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2017,1,1,NA,NA,1,0,NA,NA
+Sonoma,Oakland,2017,61,2,NA,NA,1,3,NA,NA
+Stanislaus,Stockton,2017,174,9,NA,NA,11,1,NA,NA
+Sutter,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2017,8,0,NA,NA,0,0,NA,NA
+Trinity,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Tuolumne,Stockton,2017,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2017,257,0,NA,NA,1,0,NA,NA
+Ventura,Ontario,2017,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2017,2,0,NA,NA,0,0,NA,NA
+Yuba,Stockton,2017,3,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2018,0,0,NA,NA,0,0,NA,NA
+Alpine,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Amador,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Butte,Stockton,2018,2,0,NA,NA,0,0,NA,NA
+Calaveras,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Colusa,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Contra Costa,Oakland,2018,0,0,NA,NA,0,0,NA,NA
+Del Norte,Oakland,2018,5,1,NA,NA,2,0,NA,NA
+El Dorado,Stockton,2018,0,0,NA,NA,0,1,NA,NA
+Fresno,Fresno,2018,65,2,NA,NA,0,1,NA,NA
+Glenn,Stockton,2018,19,1,NA,NA,1,0,NA,NA
+Humboldt,Oakland,2018,49,1,NA,NA,8,2,NA,NA
+Imperial,Ontario,2018,3,0,NA,NA,0,0,NA,NA
+Inyo,Fresno,2018,0,0,NA,NA,0,0,NA,NA
+Kern,Fresno,2018,46,0,NA,NA,0,0,NA,NA
+Kings,Fresno,2018,107,8,NA,NA,0,0,NA,NA
+Lake,Oakland,2018,0,0,NA,NA,0,1,NA,NA
+Lassen,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Los Angeles,Ontario,2018,1,0,NA,NA,0,0,NA,NA
+Madera,Fresno,2018,34,1,NA,NA,0,0,NA,NA
+Marin,Oakland,2018,23,1,NA,NA,0,0,NA,NA
+Mariposa,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Mendocino,Oakland,2018,2,1,NA,NA,0,1,NA,NA
+Merced,Fresno/Stockton,2018,182,7,NA,NA,20,0,NA,NA
+Modoc,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Mono,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Monterey,Oakland,2018,2,0,NA,NA,0,0,NA,NA
+Napa,Oakland,2018,0,0,NA,NA,0,0,NA,NA
+Nevada,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Orange,Ontario,2018,0,0,NA,NA,0,0,NA,NA
+Placer,Stockton,2018,2,0,NA,NA,0,0,NA,NA
+Plumas,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Riverside,Ontario,2018,28,0,NA,NA,0,0,NA,NA
+Sacramento,Stockton,2018,24,0,NA,NA,0,0,NA,NA
+San Benito,Oakland,2018,1,2,NA,NA,0,0,NA,NA
+San Bernardino,Ontario,2018,54,2,NA,NA,0,0,NA,NA
+San Diego,Ontario,2018,2,0,NA,NA,0,0,NA,NA
+San Francisco,Oakland,2018,0,0,NA,NA,0,0,NA,NA
+San Joaquin,Stockton,2018,95,0,NA,NA,0,0,NA,NA
+San Luis Obispo,Fresno,2018,1,0,NA,NA,0,0,NA,NA
+San Mateo,Oakland,2018,0,0,NA,NA,0,1,NA,NA
+Santa Barbara,Ontario,2018,1,0,NA,NA,0,1,NA,NA
+Santa Clara,Oakland,2018,1,0,NA,NA,0,0,NA,NA
+Santa Cruz,Oakland,2018,0,0,NA,NA,0,0,NA,NA
+Shasta,Stockton,2018,0,1,NA,NA,0,0,NA,NA
+Sierra,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Siskiyou,Stockton,2018,3,0,NA,NA,0,0,NA,NA
+Solano,Stockton,2018,1,4,NA,NA,1,0,NA,NA
+Sonoma,Oakland,2018,61,2,NA,NA,2,3,NA,NA
+Stanislaus,Stockton,2018,165,7,NA,NA,12,1,NA,NA
+Sutter,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Tehama,Stockton,2018,6,0,NA,NA,0,0,NA,NA
+Trinity,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Tulare,Fresno,2018,249,1,NA,NA,1,0,NA,NA
+Tuolumne,Stockton,2018,0,0,NA,NA,0,0,NA,NA
+Ventura,Ontario,2018,0,0,NA,NA,0,0,NA,NA
+Yolo,Stockton,2018,2,1,NA,NA,0,0,NA,NA
+Yuba,Stockton,2018,3,0,NA,NA,0,0,NA,NA
+Alameda,Oakland,2019,0,0,0,0,0,0,0,0
+Alpine,Stockton,2019,0,0,0,0,0,0,0,0
+Amador,Stockton,2019,0,0,0,0,0,0,0,0
+Butte,Stockton,2019,2,0,0,0,0,0,0,0
+Calaveras,Stockton,2019,0,0,0,0,0,0,0,0
+Colusa,Stockton,2019,0,0,0,0,0,0,0,0
+Contra Costa,Oakland,2019,0,0,0,0,0,0,0,0
+Del Norte,Oakland,2019,4,1,0,0,2,0,0,0
+El Dorado,Stockton,2019,0,0,0,0,0,1,0,0
+Fresno,Fresno,2019,62,1,1,1,0,1,0,0
+Glenn,Stockton,2019,18,1,0,0,2,0,0,0
+Humboldt,Oakland,2019,47,1,0,0,8,2,0,0
+Imperial,Ontario,2019,2,0,0,0,0,0,0,0
+Inyo,Fresno,2019,0,0,0,0,0,0,0,0
+Kern,Fresno,2019,46,0,0,0,0,0,0,0
+Kings,Fresno,2019,99,8,0,0,0,0,0,0
+Lake,Oakland,2019,0,0,0,0,0,0,0,0
+Lassen,Stockton,2019,0,0,0,0,0,0,0,1
+Los Angeles,Ontario,2019,1,0,0,0,0,0,0,0
+Madera,Fresno,2019,34,1,0,0,0,0,0,0
+Marin,Oakland,2019,22,1,1,0,0,0,0,1
+Mariposa,Stockton,2019,0,0,0,0,0,0,0,0
+Mendocino,Oakland,2019,2,1,0,0,0,0,1,0
+Merced,Fresno/Stockton,2019,172,9,1,0,23,0,0,0
+Modoc,Stockton,2019,0,0,0,0,0,0,0,0
+Mono,Stockton,2019,0,0,0,0,0,0,0,0
+Monterey,Oakland,2019,2,1,0,0,0,0,1,0
+Napa,Oakland,2019,0,0,0,0,0,0,0,0
+Nevada,Stockton,2019,0,0,0,0,0,0,0,0
+Orange,Ontario,2019,0,0,0,0,0,0,0,0
+Placer,Stockton,2019,2,0,0,0,0,0,0,0
+Plumas,Stockton,2019,0,0,0,0,0,0,0,0
+Riverside,Ontario,2019,27,0,0,0,0,0,0,0
+Sacramento,Stockton,2019,21,0,0,1,0,0,0,0
+San Benito,Oakland,2019,1,1,0,0,0,0,0,0
+San Bernardino,Ontario,2019,49,2,0,0,0,0,0,0
+San Diego,Ontario,2019,2,0,0,0,0,0,0,0
+San Francisco,Oakland,2019,0,0,0,0,0,0,0,0
+San Joaquin,Stockton,2019,86,1,0,0,2,0,0,0
+San Luis Obispo,Fresno,2019,1,0,0,0,0,0,0,0
+San Mateo,Oakland,2019,0,0,0,0,0,0,0,1
+Santa Barbara,Ontario,2019,1,0,0,0,0,1,0,0
+Santa Clara,Oakland,2019,0,0,0,0,0,0,0,0
+Santa Cruz,Oakland,2019,0,0,0,0,0,0,0,0
+Shasta,Stockton,2019,0,0,0,0,0,0,0,0
+Sierra,Stockton,2019,0,0,0,0,0,0,0,0
+Siskiyou,Stockton,2019,3,0,0,0,0,0,0,0
+Solano,Stockton,2019,1,4,1,0,1,1,0,0
+Sonoma,Oakland,2019,58,2,1,1,2,3,0,0
+Stanislaus,Stockton,2019,155,7,4,0,16,0,0,0
+Sutter,Stockton,2019,0,0,0,0,0,0,0,0
+Tehama,Stockton,2019,5,1,1,0,0,0,0,0
+Trinity,Stockton,2019,0,0,0,0,0,0,0,0
+Tulare,Fresno,2019,237,2,0,0,1,0,0,0
+Tuolumne,Stockton,2019,0,0,0,0,0,0,0,0
+Ventura,Ontario,2019,0,0,0,0,0,0,0,0
+Yolo,Stockton,2019,2,0,0,0,0,0,0,0
+Yuba,Stockton,2019,3,0,0,0,0,0,0,0
+Alameda,Oakland,2020,0,0,0,0,0,0,0,0
+Alpine,Stockton,2020,0,0,0,0,0,0,0,0
+Amador,Stockton,2020,0,0,0,0,0,0,0,0
+Butte,Stockton,2020,2,0,0,0,0,0,0,0
+Calaveras,Stockton,2020,0,0,0,0,0,0,0,0
+Colusa,Stockton,2020,0,0,0,0,0,0,0,0
+Contra Costa,Oakland,2020,0,0,0,0,0,0,0,0
+Del Norte,Oakland,2020,2,0,1,0,0,0,0,0
+El Dorado,Stockton,2020,0,0,0,0,0,1,0,0
+Fresno,Fresno,2020,62,1,1,1,0,0,0,0
+Glenn,Stockton,2020,17,2,0,0,1,0,0,0
+Humboldt,Oakland,2020,40,1,1,0,19,2,0,0
+Imperial,Ontario,2020,2,0,0,0,0,0,0,0
+Inyo,Fresno,2020,0,0,0,0,0,0,0,0
+Kern,Fresno,2020,46,0,0,0,0,0,0,0
+Kings,Fresno,2020,99,8,0,0,0,0,0,0
+Lake,Oakland,2020,0,0,0,0,0,0,0,0
+Lassen,Stockton,2020,0,0,0,0,0,0,0,0
+Los Angeles,Ontario,2020,1,0,0,0,0,0,0,0
+Madera,Fresno,2020,35,1,0,0,0,0,0,0
+Marin,Oakland,2020,21,2,1,0,1,0,0,1
+Mariposa,Stockton,2020,0,0,0,0,0,0,0,0
+Mendocino,Oakland,2020,2,0,0,0,0,2,0,0
+Merced,Fresno/Stockton,2020,172,8,1,0,21,0,0,0
+Modoc,Stockton,2020,0,0,0,0,0,0,0,0
+Mono,Stockton,2020,0,0,0,0,0,0,0,0
+Monterey,Oakland,2020,2,0,0,0,0,0,0,0
+Napa,Oakland,2020,0,0,0,0,0,0,0,0
+Nevada,Stockton,2020,0,0,0,0,0,0,0,0
+Orange,Ontario,2020,0,0,0,0,0,0,0,0
+Placer,Stockton,2020,2,0,0,0,0,0,0,0
+Plumas,Stockton,2020,0,0,0,0,0,0,0,0
+Riverside,Ontario,2020,25,0,0,0,0,0,0,0
+Sacramento,Stockton,2020,19,0,0,1,0,0,0,0
+San Benito,Oakland,2020,1,1,0,0,0,0,0,0
+San Bernardino,Ontario,2020,45,2,0,0,0,0,0,0
+San Diego,Ontario,2020,2,0,0,0,0,0,0,0
+San Francisco,Oakland,2020,0,0,0,0,0,0,0,0
+San Joaquin,Stockton,2020,84,1,0,0,0,0,0,0
+San Luis Obispo,Fresno,2020,1,0,0,0,0,1,0,0
+San Mateo,Oakland,2020,0,0,0,0,0,1,0,0
+Santa Barbara,Ontario,2020,1,0,0,0,0,0,0,0
+Santa Clara,Oakland,2020,0,0,0,0,0,0,0,0
+Santa Cruz,Oakland,2020,0,0,0,0,1,0,0,0
+Shasta,Stockton,2020,0,0,0,0,0,0,0,0
+Sierra,Stockton,2020,0,0,0,0,0,0,0,0
+Siskiyou,Stockton,2020,3,0,0,0,0,0,0,0
+Solano,Stockton,2020,1,1,0,0,1,0,0,0
+Sonoma,Oakland,2020,57,1,1,1,2,1,0,0
+Stanislaus,Stockton,2020,153,8,4,0,15,0,0,0
+Sutter,Stockton,2020,0,0,0,0,0,0,0,0
+Tehama,Stockton,2020,5,0,1,0,0,0,0,0
+Trinity,Stockton,2020,0,0,0,0,0,0,0,0
+Tulare,Fresno,2020,230,1,0,0,0,0,0,0
+Tuolumne,Stockton,2020,0,0,0,0,0,0,0,0
+Ventura,Ontario,2020,0,0,0,0,0,0,0,0
+Yolo,Stockton,2020,2,0,0,0,0,0,0,0
+Yuba,Stockton,2020,3,0,0,0,0,0,0,0
+Alameda,Oakland,2021,0,0,0,0,0,0,0,0
+Alpine,Stockton,2021,0,0,0,0,0,0,0,0
+Amador,Stockton,2021,0,0,0,0,0,0,0,0
+Butte,Stockton,2021,2,0,0,0,0,0,0,0
+Calaveras,Stockton,2021,0,0,0,0,0,0,0,0
+Colusa,Stockton,2021,0,0,0,0,0,0,0,0
+Contra Costa,Oakland,2021,0,0,0,0,0,0,0,0
+Del Norte,Oakland,2021,3,0,1,0,4,0,0,0
+El Dorado,Stockton,2021,0,0,0,0,0,0,0,0
+Fresno,Fresno,2021,57,1,1,1,0,1,0,0
+Glenn,Stockton,2021,16,2,0,0,1,0,0,0
+Humboldt,Oakland,2021,36,1,0,0,15,1,0,0
+Imperial,Ontario,2021,2,0,0,0,0,0,0,0
+Inyo,Fresno,2021,0,0,0,0,0,0,0,0
+Kern,Fresno,2021,47,0,0,0,0,0,0,0
+Kings,Fresno,2021,97,8,0,0,0,0,0,0
+Lake,Oakland,2021,0,0,0,0,0,0,0,0
+Lassen,Stockton,2021,0,0,0,0,0,0,0,0
+Los Angeles,Ontario,2021,1,0,0,0,0,0,0,0
+Madera,Fresno,2021,33,1,0,0,0,0,0,0
+Marin,Oakland,2021,20,1,1,0,1,0,0,1
+Mariposa,Stockton,2021,0,0,0,0,0,0,0,0
+Mendocino,Oakland,2021,2,0,0,0,0,2,0,0
+Merced,Fresno/Stockton,2021,177,8,1,0,11,0,0,0
+Modoc,Stockton,2021,0,0,0,0,0,0,0,0
+Mono,Stockton,2021,0,0,0,0,0,0,0,0
+Monterey,Oakland,2021,2,0,1,0,0,0,0,0
+Napa,Oakland,2021,0,0,0,0,0,0,0,0
+Nevada,Stockton,2021,0,0,0,0,0,0,0,0
+Orange,Ontario,2021,0,0,0,0,0,0,0,0
+Placer,Stockton,2021,2,0,0,0,0,0,0,0
+Plumas,Stockton,2021,0,0,0,0,0,0,0,0
+Riverside,Ontario,2021,25,0,0,0,0,0,0,0
+Sacramento,Stockton,2021,18,0,0,1,0,0,0,0
+San Benito,Oakland,2021,1,1,0,0,0,0,0,0
+San Bernardino,Ontario,2021,36,2,0,0,0,0,0,0
+San Diego,Ontario,2021,2,0,0,0,0,0,0,0
+San Francisco,Oakland,2021,0,0,0,0,0,0,0,0
+San Joaquin,Stockton,2021,80,1,0,0,1,0,0,0
+San Luis Obispo,Fresno,2021,1,0,0,0,0,1,0,0
+San Mateo,Oakland,2021,0,0,0,0,0,1,0,0
+Santa Barbara,Ontario,2021,1,0,0,0,0,0,0,0
+Santa Clara,Oakland,2021,1,0,0,0,0,0,0,0
+Santa Cruz,Oakland,2021,0,0,0,0,0,0,0,0
+Shasta,Stockton,2021,0,0,0,0,0,0,0,0
+Sierra,Stockton,2021,0,0,0,0,0,0,0,0
+Siskiyou,Stockton,2021,3,0,0,0,0,0,0,0
+Solano,Stockton,2021,2,1,0,0,0,0,0,0
+Sonoma,Oakland,2021,56,2,1,1,2,0,0,0
+Stanislaus,Stockton,2021,154,8,4,0,11,0,0,0
+Sutter,Stockton,2021,0,0,0,0,0,0,0,0
+Tehama,Stockton,2021,3,0,1,0,0,0,0,0
+Trinity,Stockton,2021,0,0,0,0,0,0,0,0
+Tulare,Fresno,2021,224,1,0,0,0,0,0,0
+Tuolumne,Stockton,2021,0,0,0,0,0,0,0,0
+Ventura,Ontario,2021,0,0,0,0,0,0,0,0
+Yolo,Stockton,2021,2,0,0,0,0,0,0,0
+Yuba,Stockton,2021,3,0,0,0,0,0,0,0
+Alameda,Oakland,2022,0,0,0,0,0,0,0,0
+Alpine,Stockton,2022,0,0,0,0,0,0,0,0
+Amador,Stockton,2022,0,0,0,0,0,0,0,0
+Butte,Stockton,2022,2,0,0,0,0,0,0,0
+Calaveras,Stockton,2022,0,0,0,0,0,0,0,0
+Colusa,Stockton,2022,0,0,0,0,0,0,0,0
+Contra Costa,Oakland,2022,0,0,0,0,0,0,0,0
+Del Norte,Oakland,2022,3,0,1,0,2,0,0,0
+El Dorado,Stockton,2022,0,1,0,0,0,0,0,0
+Fresno,Fresno,2022,56,1,1,1,0,1,0,0
+Glenn,Stockton,2022,13,1,0,0,0,1,0,0
+Humboldt,Oakland,2022,32,1,0,0,15,1,0,0
+Imperial,Ontario,2022,2,0,0,0,0,0,0,0
+Inyo,Fresno,2022,0,0,0,0,0,0,0,0
+Kern,Fresno,2022,46,0,0,0,0,0,0,0
+Kings,Fresno,2022,96,8,0,0,0,0,0,0
+Lake,Oakland,2022,0,0,0,0,0,0,0,0
+Lassen,Stockton,2022,0,0,0,0,0,0,0,0
+Los Angeles,Ontario,2022,1,0,0,0,0,0,0,0
+Madera,Fresno,2022,32,1,0,0,0,0,0,0
+Marin,Oakland,2022,18,2,1,0,1,0,0,0
+Mariposa,Stockton,2022,0,0,0,0,0,0,0,0
+Mendocino,Oakland,2022,1,0,0,0,0,1,0,0
+Merced,Fresno/Stockton,2022,168,9,0,0,11,0,0,0
+Modoc,Stockton,2022,0,0,0,0,0,0,0,0
+Mono,Stockton,2022,0,0,0,0,0,0,0,0
+Monterey,Oakland,2022,2,0,0,0,0,0,0,0
+Napa,Oakland,2022,0,0,0,0,0,0,0,0
+Nevada,Stockton,2022,0,0,0,0,0,0,0,0
+Orange,Ontario,2022,0,0,0,0,0,0,0,0
+Placer,Stockton,2022,1,0,0,0,0,0,0,0
+Plumas,Stockton,2022,0,0,0,0,0,0,0,0
+Riverside,Ontario,2022,23,0,0,0,0,0,0,0
+Sacramento,Stockton,2022,16,0,0,1,0,0,0,0
+San Benito,Oakland,2022,1,1,0,0,0,0,0,0
+San Bernardino,Ontario,2022,30,2,0,0,0,0,0,0
+San Diego,Ontario,2022,1,0,0,0,0,0,0,0
+San Francisco,Oakland,2022,0,0,0,0,0,0,0,0
+San Joaquin,Stockton,2022,76,1,0,0,1,0,0,0
+San Luis Obispo,Fresno,2022,1,0,0,0,0,2,0,0
+San Mateo,Oakland,2022,0,0,0,0,0,1,0,0
+Santa Barbara,Ontario,2022,1,0,0,0,0,0,0,0
+Santa Clara,Oakland,2022,1,0,0,0,0,0,0,0
+Santa Cruz,Oakland,2022,0,0,0,0,0,0,0,0
+Shasta,Stockton,2022,0,0,0,0,0,0,0,0
+Sierra,Stockton,2022,0,0,0,0,0,0,0,0
+Siskiyou,Stockton,2022,0,0,0,0,0,0,0,0
+Solano,Stockton,2022,2,1,0,0,0,0,0,0
+Sonoma,Oakland,2022,51,0,1,1,1,2,0,1
+Stanislaus,Stockton,2022,141,7,4,0,9,0,0,0
+Sutter,Stockton,2022,0,0,0,0,0,0,0,0
+Tehama,Stockton,2022,3,0,1,0,0,0,0,0
+Trinity,Stockton,2022,0,0,0,0,0,0,0,0
+Tulare,Fresno,2022,213,2,0,0,0,0,0,0
+Tuolumne,Stockton,2022,0,0,0,0,0,0,0,0
+Ventura,Ontario,2022,0,0,0,0,0,0,0,0
+Yolo,Stockton,2022,2,0,0,0,0,0,0,0
+Yuba,Stockton,2022,1,0,0,0,0,0,0,0
