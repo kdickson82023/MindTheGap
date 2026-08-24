@@ -3,7 +3,7 @@
 **Overview**  
 This repository contains a reproducible, open-source Python pipeline designed to audit and quantify the structural uncertainty between California's two primary agricultural methane tracking datasets: the California Air Resources Board (CARB) CADD dataset and the California Department of Food and Agriculture (CDFA) licensed dairy registry.
 
-By moving beyond simple arithmetic point-estimates, this project utilizes Monte Carlo bootstrapping and emissions error propagation to quantify the true atmospheric and economic liability of unaccounted dairy facilities in California.
+By moving beyond simple arithmetic point-estimates, this project utilizes Monte Carlo bootstrapping and emissions error propagation to quantify the atmospheric and economic liability of enteric methane emissions from lactating cows at unaccounted dairy facilities in California.
 
 This work builds directly on an original concordance analysis by Dr. Daniel Chandler ([Climate Action California](https://climateactionca.org/)), submitted as an appendix to [CAC's response](https://ww2.arb.ca.gov/form/public-comments/submissions/60256) to CARB's 2026 [Information Solicitation to Inform Implementation of the Dairy and Livestock Provisions of Senate Bill 1383](https://ww2.arb.ca.gov/public-comments/information-solicitation-inform-dairy-and-livestock-sb1383).
 
