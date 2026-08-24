@@ -7,10 +7,11 @@ By moving beyond simple arithmetic point-estimates, this project utilizes Monte 
 
 This work builds directly on an original concordance analysis by Dr. Daniel Chandler (Climate Action California), submitted as an appendix to CAC's response to CARB's 2026 Information Solicitation on SB 1383 dairy and livestock provisions.
 
-**Repository Structure**   
-data/raw/: CADD facility and herd-size data (2012–2023), California county boundary shapefile. (CDFA licensed-dairy data, obtained by Dr. Chandler via a 2024 Public Records Act request, is not included here — see Data Access below.)
-notebooks/: MindTheGap.ipynb, the full analysis pipeline — data ingestion, statistical modeling, geospatial mapping, and economic analysis.
-figures/: Chloropleth map of California counties and lactating cow methane uncertainty data.
+**Repository Structure** 
+
+- *data/raw/*: CADD facility and herd-size data (2012–2023), California county boundary shapefile. (CDFA licensed-dairy data, obtained by Dr. Chandler via a 2024 Public Records Act request, is not included here — see Data Access below.)
+- *notebooks/*: MindTheGap.ipynb, the full analysis pipeline — data ingestion, statistical modeling, geospatial mapping, and economic analysis.
+- *figures/*: Chloropleth map of California counties and lactating cow methane uncertainty data.
 
 **Data Access**
 
