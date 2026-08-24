@@ -45,4 +45,4 @@ Update BASE_PATH in the first code cell of MindTheGap.ipynb to point to your loc
 
 Katharine Dickson, Ph.D.  
 
-*Conflict of Interest Statement: The author currently serves as the Agricultural Methane Policy Team Lead at Climate Action California. This repository was developed as an independent computational policy audit.*
+*Conflict of Interest Statement: The author currently serves as an Agricultural Methane Policy Team Co-Lead at Climate Action California. This repository was developed as an independent computational policy audit.*
