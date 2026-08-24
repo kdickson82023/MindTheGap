@@ -15,7 +15,7 @@ This work builds directly on an original concordance analysis by Dr. Daniel Chan
 
 **Data Access**
 
-CADD v2.0.0 is publicly downloadable from CARB's website. The CDFA licensed dairy registry data used here was obtained via a Public Records Act request by Dr. Daniel Chandler supplied by CDFA by means of a public records request made by Dr. Chandler in the fall of 2024; it is used here with his permission.
+CADD v2.0.0 is publicly downloadable from CARB's website. The CDFA licensed dairy registry data used here was obtained via a Public Records Act request by Dr. Chandler supplied by CDFA by means of a public records request he made in the fall of 2024; it is used here with his permission.
 
 **Methodology**
 
